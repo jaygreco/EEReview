@@ -29,7 +29,8 @@ The sole purpose of this repo is to gather material that would be useful to know
    * M(D) for basic converters
 * Basic programming questions
 * Random design tasks - using common circuit blocks
-* Basic EMC/ESD mitigation and practices 
+* Basic EMC/ESD mitigation and practices
+   * ESD, RF immunity, RF emissions
 * Basic knowledge of controlled impedance, signals, clock rates, etc
    * Microstrip vs stripline, basic transmission line theory
    * Clocks and data rates of common signals (USB, Ethernet)
