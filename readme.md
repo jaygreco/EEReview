@@ -8,6 +8,8 @@ The sole purpose of this repo is to gather material that would be useful to know
 * Basic digital logic, inc. truth tables, gates, and flip-flops/latches
    * Boolean algebra theorems?
    * 2’s compliment just for fun —> invert, +1!
+   * Basic truth table and logic synthesis
+   * Programmable logic: CPLD/FPGA/HDL
 * Op-amps, feedback
    * Integrators/differentiators
    * Active filters
@@ -16,7 +18,7 @@ The sole purpose of this repo is to gather material that would be useful to know
 * Passive filters, LRC, frequency response
    * Filter architectures (at least basic knowledge)
    * RC circuits 
-* Communication busses (type, max distance, datarate, multicast/p2p, etc)
+* Communication busses (type, char imp, max distance, datarate, multicast/p2p, etc)
    * LAN/gigE
    * USB
    * SPI
@@ -31,6 +33,7 @@ The sole purpose of this repo is to gather material that would be useful to know
 * Random design tasks - using common circuit blocks
 * Basic EMC/ESD mitigation and practices
    * ESD, RF immunity, RF emissions
+   * EMC/EMI requirements, test methods, and theory
 * Basic knowledge of controlled impedance, signals, clock rates, etc
    * Microstrip vs stripline, basic transmission line theory
    * Clocks and data rates of common signals (USB, Ethernet)
